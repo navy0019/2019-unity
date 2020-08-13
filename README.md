@@ -1,4 +1,9 @@
 # 2019資策會unity
-參與製作部分:
-UI
-怪物AI
+* **參與製作部分**:
+  * 怪物AI
+  * UI
+  * 道具系統
+
+
+### 怪物AI 
+使用 `FSM`  與  `Steering Behaviors` 製作

@@ -24,8 +24,11 @@
 ![image](https://github.com/navy0019/2019-unity/blob/master/gif/dead.gif)
 
 ### NPCAI
+使用 `FSM`  與  `Steering Behaviors` 與  `A*` 製作
+![image](https://github.com/navy0019/2019-unity/blob/master/gif/npcWalk.gif)
 
-
+##### 迴避玩家
+![image](https://github.com/navy0019/2019-unity/blob/master/gif/npcAvoid.gif)
 
 ### UI
 

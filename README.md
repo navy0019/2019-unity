@@ -8,4 +8,8 @@
 ### 怪物AI 
 使用 `FSM`  與  `Steering Behaviors` 製作
 
+##### 巡邏
 ![image](https://github.com/navy0019/2019-unity/blob/master/gif/wonder.gif)
+
+
+##### 對峙 & 攻擊

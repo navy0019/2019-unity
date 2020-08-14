@@ -13,3 +13,11 @@
 
 
 ##### 對峙 & 攻擊
+![image](https://github.com/navy0019/2019-unity/blob/master/gif/atk01.gif)
+![image](https://github.com/navy0019/2019-unity/blob/master/gif/atk02.gif)
+![image](https://github.com/navy0019/2019-unity/blob/master/gif/atk03.gif)
+![image](https://github.com/navy0019/2019-unity/blob/master/gif/atk04.gif)
+
+
+##### 死亡
+![image](https://github.com/navy0019/2019-unity/blob/master/gif/dead.gif)

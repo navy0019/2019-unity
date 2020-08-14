@@ -2,8 +2,7 @@
 * **參與製作部分**:
   * [怪物AI](#怪物AI)
   * [NPCAI](#NPCAI)
-  * [UI](#UI)
-  * [道具系統](#道具系統)
+  * [UI&道具系統](#UI&道具系統)
 
 
 ### 怪物AI 
@@ -32,7 +31,15 @@
 ![image](https://github.com/navy0019/2019-unity/blob/master/gif/npcAvoid.gif)
 
 
-### UI
+### UI&道具系統
+##### 掉落
+![image](https://github.com/navy0019/2019-unity/blob/master/gif/dropReward.gif)
 
+##### 拖曳
+![image](https://github.com/navy0019/2019-unity/blob/master/gif/UIdrag.gif)
 
-### 道具系統
+##### 使用道具
+![image](https://github.com/navy0019/2019-unity/blob/master/gif/useItem.gif)
+
+##### 購買道具
+![image](https://github.com/navy0019/2019-unity/blob/master/gif/UIbuy.gif)
